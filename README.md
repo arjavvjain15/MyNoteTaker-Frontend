@@ -20,4 +20,5 @@ Frontend: React
 
 Backend: Node.js + Express
 
-Database: MongoDB 
+Database: MongoDB.
+
